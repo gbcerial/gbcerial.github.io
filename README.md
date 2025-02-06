@@ -1,1 +1,1 @@
-gbcerial.github.io/INTRO.html
+gbcerial.github.io
