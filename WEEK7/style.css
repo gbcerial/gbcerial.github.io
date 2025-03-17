@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+.fixed-height {
+  height: 200px; 
+ }
+ .half-height {
+  height: 100px;
+}
